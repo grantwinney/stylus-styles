@@ -1,0 +1,18 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1574387957119,
+		"name": "Block Push Notifications",
+		"sections": [
+			{
+				"code": "#onesignal-popover-container        /* https://github.com/OneSignal/OneSignal-Website-SDK */\n{\n    display: none !important;\n}"
+			}
+		],
+		"updateDate": 1574388034473,
+		"id": 2
+	}
+]
