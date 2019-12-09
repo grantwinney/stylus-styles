@@ -9,10 +9,10 @@
 		"name": "Block Push Notifications",
 		"sections": [
 			{
-				"code": "#onesignal-popover-container        /* https://github.com/OneSignal/OneSignal-Website-SDK */\n{\n    display: none !important;\n}"
+				"code": "#onesignal-popover-container,        /* https://github.com/OneSignal/OneSignal-Website-SDK */\n.cookies\n{\n    display: none !important;\n}"
 			}
 		],
-		"updateDate": 1574388034473,
+		"updateDate": 1574708585210,
 		"id": 2
-	}
+
 ]
