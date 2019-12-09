@@ -9,7 +9,7 @@
 		"name": "SE Simplified",
 		"sections": [
 			{
-				"code": "#announcement-banner, #search, .-marketing-link, .site-header,\n.achievements-button-item, .-item.review-button-item, .help-button-item, .site-switcher-item,\n.bottom-notice, #left-sidebar, #sidebar, #footer {\n    display: none !important;\n}\n\n#content {\n    border: 0px !important;\n}\n\n#mainbar, .mainbar {\n    width: inherit;\n}",
+				"code": "#announcement-banner, #search, .-marketing-link, .site-header,\n.achievements-button-item, .-item.review-button-item, .help-button-item, .site-switcher-item,\n.bottom-notice, #left-sidebar, #sidebar, #footer,\n.story-tab, .js-header-rep, .-badges, .icon-winterbash {\n    display: none !important;\n}\n\n#content {\n    border: 0px !important;\n}\n\n#mainbar, .mainbar {\n    width: inherit;\n}",
 				"domains": [
 					"stackoverflow.com",
 					"stackexchange.com",
@@ -20,7 +20,7 @@
 				]
 			}
 		],
-		"updateDate": 1572873248665,
+		"updateDate": 1575900916488,
 		"id": 1
 	}
 ]
